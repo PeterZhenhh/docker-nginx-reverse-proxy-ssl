@@ -1,5 +1,4 @@
 FROM nginx
-MAINTAINER Kyle Mathews "mathews.kyle@gmail.com"
 
 # Copy in conf files
 COPY nginx.conf /etc/nginx/nginx.conf
