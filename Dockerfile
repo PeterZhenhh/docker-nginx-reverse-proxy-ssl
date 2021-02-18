@@ -1,4 +1,4 @@
-FROM nginx:1.7
+FROM nginx
 MAINTAINER Kyle Mathews "mathews.kyle@gmail.com"
 
 # Copy in conf files
